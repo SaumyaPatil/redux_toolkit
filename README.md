@@ -2,7 +2,7 @@
 
 ## Setup Instructions
 
-1. Clone the repo
+1. Clone the repo: -
 git clone https://github.com/SaumyaPatil/redux_toolkit.git
 
 2. Install dependencies
